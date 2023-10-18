@@ -2,8 +2,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-  <a>I am a Computer Engineering student next to graduate. I live in Cartago, Costa Rica. I have experience in software development in different languages,
-     with more than 50 projects designed at the university level. Experience and knowledge in electronics, repair and maintenance of electronic devices. Lastly, I have      leadership skills, with experience managing work teams.</a>
+  <a>Student next to graduate. I have solid knowledge in computer architecture, digital electronics, software development, FPGA and SQL. I have demonstrated my skills through the completion of more than 50 projects in both software development and embedded systems of the university level and freelance. I have been involved in various social groups for the development of soft skills. My passion for technology and my focus on continuous learning drive me to seek new opportunities to apply my skills and continue to grow professionally.</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
